@@ -54,6 +54,6 @@ $ python3 CLI.py
  b. Branch Analysis: Analysis performance of a particular branch of a gym on metrics- working                  members, average BMI of members, number of trainers.
  
  6. CRUD Operations:\
-  1.Add/Create new entries of members, employees, dietplans, gym equipment, branches.\
-  2.Update/Modify details like contact number, BMI, address of trainers and members.\
-  3.Delete old details of members, employees, worn out gym equipment.
+  1. Add/Create new entries of members, employees, dietplans, gym equipment, branches.\
+  2. Update/Modify details like contact number, BMI, address of trainers and members.\
+  3. Delete old details of members, employees, worn out gym equipment.
