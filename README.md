@@ -50,10 +50,10 @@ $ python3 CLI.py
   b. A function to partially search for food items in a given diet plan.
   
  5. Analysis Reports:\
- a. Trainer Analysis: Analysis performance of all members under a particular trainer based on their         BMI.\
- b. Branch Analysis: Analysis performance of a particular branch of a gym on metrics- working                  members, average BMI of members, number of trainers.
+  a. Trainer Analysis: Analysis performance of all members under a particular trainer based on their         BMI.\
+  b. Branch Analysis: Analysis performance of a particular branch of a gym on metrics- working                  members, average BMI of members, number of trainers.
  
  6. CRUD Operations:\
-  1. Add/Create new entries of members, employees, dietplans, gym equipment, branches.\
-  2. Update/Modify details like contact number, BMI, address of trainers and members.\
-  3. Delete old details of members, employees, worn out gym equipment.
+   a. Add/Create new entries of members, employees, dietplans, gym equipment, branches.\
+   b. Update/Modify details like contact number, BMI, address of trainers and members.\
+   c. Delete old details of members, employees, worn out gym equipment.
