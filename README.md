@@ -51,7 +51,7 @@ $ python3 CLI.py
   
  5.Analysis Reports:\
  a.Trainer Analysis: Analysis performance of all members under a particular trainer based on their BMI.\
- b.Branch Analysis: Analysis performance of a particular branch of a gym on metrics- working                members, average BMI of members, number of trainers.
+ b.Branch Analysis: Analysis performance of a particular branch of a gym on metrics- working                  members, average BMI of members, number of trainers.
  
  6.CRUD Operations:\
   1.Add/Create new entries of members, employees, dietplans, gym equipment, branches.\
