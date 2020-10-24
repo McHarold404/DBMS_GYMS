@@ -34,26 +34,26 @@ $ python3 CLI.py
 
 
 ### Functions Implemented
-1.Selection Functions:\
-  a.Get a complete list of members.\
-  b.Get a complete list of employees.
+1. Selection Functions:\
+  a. Get a complete list of members.\
+  b. Get a complete list of employees.
   
-2.Projection Functions:\
-  a.List diet plans sorted by their calory count\
-  b.Classify members based on their BMI (underweight/overweight/fit).
+2. Projection Functions:\
+  a. List diet plans sorted by their calory count\
+  b. Classify members based on their BMI (underweight/overweight/fit).
 
-3.Aggregate Functions: \
-  a.Retrieve trainers with maximum/minimum number of clients
+3. Aggregate Functions: \
+  a. Retrieve trainers with maximum/minimum number of clients
 
-4.Search Functions:\
-  a.Partially search name of exercises and equipment.\
-  b.A function to partially search for food items in a given diet plan.
+4. Search Functions:\
+  a. Partially search name of exercises and equipment.\
+  b. A function to partially search for food items in a given diet plan.
   
- 5.Analysis Reports:\
- a.Trainer Analysis: Analysis performance of all members under a particular trainer based on their BMI.\
- b.Branch Analysis: Analysis performance of a particular branch of a gym on metrics- working                  members, average BMI of members, number of trainers.
+ 5. Analysis Reports:\
+ a. Trainer Analysis: Analysis performance of all members under a particular trainer based on their         BMI.\
+ b. Branch Analysis: Analysis performance of a particular branch of a gym on metrics- working                  members, average BMI of members, number of trainers.
  
- 6.CRUD Operations:\
+ 6. CRUD Operations:\
   1.Add/Create new entries of members, employees, dietplans, gym equipment, branches.\
   2.Update/Modify details like contact number, BMI, address of trainers and members.\
   3.Delete old details of members, employees, worn out gym equipment.
